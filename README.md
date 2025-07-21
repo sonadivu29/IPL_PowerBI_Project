@@ -72,11 +72,21 @@ This Power BI project provides a comprehensive visual analysis of Indian Premier
 
 ---
 
-## Author
+##  File
 
-Developed by Divesh Sonawane
+- `IPL DASHBOARDS.pbix` – Power BI report file
+
 ---
 
+##  Preview
+ 
+> Get an overview of the dashboard through screenshots.
+
+---
+
+## Author
+
+Divesh Sonawane
 
 ## Contact
 
